@@ -1,0 +1,15 @@
+{
+  "name": "demo-package-calc-xyz",
+  "version": "1.0.1",
+  "description": "'A simple calculator package'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "package"
+  ],
+  "author": "rachitgarg",
+  "license": "ISC"
+}
